@@ -1,14 +1,13 @@
-
 [
   {
-    "name": "RJTT2.glb",
+    "name": "RJTT_runway.glb",
     "url": "https://raw.githubusercontent.com/geofslike-wq/-GeoFS-OSM-Airport-Models/main/RJTT2.glb",
     "lon": 139.781000,
     "lat": 35.553800,
-    "alt": 5.0
-    "heading": 340
-    "pitch": 0.0,
-    "roll": 0.0,
+    "alt": 5.0,
+    "heading": 340,
+    "pitch": 0,
+    "roll": 0,
     "scale": 0.05
   },
   {
@@ -17,10 +16,11 @@
     "lon": 139.781060,
     "lat": 35.553800,
     "alt": 6.0,
-    "heading": 0.0,
-    "pitch": 0.0,
-    "roll": 0.0,
-    "scale": 1.0
+    "heading": 0,
+    "pitch": 0,
+    "roll": 0,
+    "scale": 0.03
   }
 ]
+
 
